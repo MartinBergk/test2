@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Simple VitePress Site"
-  text: "Training Page for Cloud Computing Course"
+  name: "Not so Simple VitePress Site"
+  text: "Martin's Training Page for Cloud Computing Course"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Martin B is up to no good!
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Will be updated weekly!
   - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: You are welcome!
 ---
 
