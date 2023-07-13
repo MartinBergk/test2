@@ -18,8 +18,8 @@ features:
   - title: Feature A
     details: Martin B is up to no good!
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Will be updated weekly!
   - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: You are welcome!
 ---
 
